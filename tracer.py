@@ -1,6 +1,4 @@
 # This is a code in which we impliment the code to track the country of mobile Number.
-# This code is by Geezgod
-
 import json 
 import pycountry
 from tkinter import Tk, Label, Button, Entry
